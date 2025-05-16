@@ -1,0 +1,10 @@
+^C:\USERS\NIKIT\ONEDRIVE\РАБОЧИЙ СТОЛ\PULSEBROKER\BUILD\CMAKEFILES\878E428B3BDE984556771C30E5481CA7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/nikit/OneDrive/Рабочий стол/PulseBroker" "-BC:/Users/nikit/OneDrive/Рабочий стол/PulseBroker/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/nikit/OneDrive/Рабочий стол/PulseBroker/build/PulseBroker.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

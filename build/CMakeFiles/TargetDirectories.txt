@@ -1,0 +1,5 @@
+C:/Users/nikit/OneDrive/Рабочий стол/PulseBroker/build/CMakeFiles/pulse_broker.dir
+C:/Users/nikit/OneDrive/Рабочий стол/PulseBroker/build/CMakeFiles/pulse_broker_tests.dir
+C:/Users/nikit/OneDrive/Рабочий стол/PulseBroker/build/CMakeFiles/publisher_subscriber.dir
+C:/Users/nikit/OneDrive/Рабочий стол/PulseBroker/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nikit/OneDrive/Рабочий стол/PulseBroker/build/CMakeFiles/ZERO_CHECK.dir
